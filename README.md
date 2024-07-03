@@ -1,7 +1,5 @@
 <h1 align="center">Hey I'm UMAR MANSOOR! 👋</h1>
 
-[![](https://visitcount.itsvg.in/api?id=alimnsr1154&icon=0&color=0)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/d847e6db-c4d9-4962-a27e-4113ae3b2a69/project/5f82efaf-b13e-40db-948a-09887579000b.svg)]//\\(https://wakatime.com/badge/user/d847e6db-c4d9-4962-a27e-4113ae3b2a69/project/5f82efaf-b13e-40db-948a-09887579000b)
 
 <p>
    Meet a young and passionate programmer with an insatiable appetite for innovation and creativity in the world of backend software development. With a profound love for computer science as a discipline, I constantly seek to expand my horizons and push the boundaries of what's possible in software development. Fueled by an unwavering curiosity, I enthusiastically delve into theoretical computer science and software architecture, eager to unlock the secrets of the digital universe. As I embark on this intellectual journey, I embrace every challenge as an opportunity for growth, striving to be a better version of myself every single day. 
